@@ -15,7 +15,7 @@ def second_challenge
       :heroine_friends => []
     }
   }
-
+  epic_tragedy
   epic_tragedy[:montague]
   epic_tragedy[:capulet]
 end
